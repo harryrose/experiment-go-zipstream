@@ -1,3 +1,3 @@
-module github.com/harryrose/test-go-zipstream
+module github.com/harryrose/experiment-go-zipstream
 
 go 1.14

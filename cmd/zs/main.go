@@ -5,7 +5,7 @@ import (
 	"context"
 	"encoding/json"
 	"fmt"
-	"github.com/harryrose/zipstream/handler"
+	"github.com/harryrose/experiment-go-zipstream/handler"
 	"os"
 )
 
