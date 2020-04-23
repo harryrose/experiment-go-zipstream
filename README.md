@@ -25,5 +25,5 @@ Usage:
 ```
 
 The purpose of this tool is to demonstrate how we would stream zip files.  
-It uses the zip on 
+ 
  
